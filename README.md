@@ -14,10 +14,13 @@ This repository contains images of applications and games I made during my Inter
 - SMTP
 - ReactiveX  
 
-https://github.com/user-attachments/assets/5ba39f02-3d0c-4805-909f-2efb1bc1fcbc
 
 
-https://github.com/user-attachments/assets/c7e96894-ee4d-49e1-8a36-c2120c70c64c
+https://github.com/user-attachments/assets/bfa8b4dc-feac-4a5a-9790-c310050f0e45
+
+
+https://github.com/user-attachments/assets/0a9300c0-26ad-4c4f-ae2e-9ab012001888
+
 
 
 
